@@ -88,31 +88,31 @@ var projects = {
           'title': 'BR-Podcastcenter',
           'dates': '07/06 - 08/07',
           'description': 'Hosting all the BR Podcast-Content on its own plattform',
-          'images': 'images/podcastcenter.jpg'
+          'images': ['http://placehold.it/150x150']
       },
       {
           'title': 'Yuranga',
           'dates': '12/07 - 08/09',
           'description': 'Launching the new CMS called TeamSite for BR.de',
-          'images': 'images/yuranga.jpg'
+          'images': ['http://placehold.it/150x150']
       },
       {
           'title': 'Sophora',
           'dates': '12/09 - 02/11',
           'description': 'Launching the new CMS called Sophora for BR.de',
-          'images': 'images/sophora.jpg'
+          'images': ['http://placehold.it/150x150']
       },
       {
           'title': 'BR-Mediathek',
           'dates': '10/11 - 04/13',
           'description': 'Hosting all the BR Video- and Audio-Content on its own plattform',
-          'images': 'images/br-mediathek.jpg'
+          'images': ['http://placehold.it/150x150']
       },
       {
           'title': 'BR2GO',
           'dates': '08/13 - 04/15',
           'description': 'Transforming the huge www.BR.de into a modern responsive Website',
-          'images': 'images/br2go.jpg'
+          'images': ['http://placehold.it/150x150']
       }
   ],
   'display': function() {
@@ -132,14 +132,14 @@ var projects = {
 var education = {
     'schools': [
         {
-            "name": "CDI",
-            "location": "Munich",
-            "degree": "Informatikkaufmann",
-            "majors": [
-                "Economic, IT"
+            'name': 'CDI',
+            'location': 'Munich',
+            'degree': 'Informatikkaufmann',
+            'majors': [
+                'Economic, IT'
             ],
-            "dates": 2000,
-            "URL": "http://www.multimedia.de/ausbildung/institution/id/711/"
+            'dates': 2000,
+            'URL': 'http://www.multimedia.de/ausbildung/institution/id/711/'
         }
     ],
 
